@@ -1,0 +1,56 @@
+.mcr-titleBar {
+	width: 100%;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	padding: 5px;
+	font-size: 3rem;
+	background-color: white;
+	font-variant: small-caps;	
+	border-bottom: 1px solid #E8E8E8;
+}
+
+.mcr-title {
+	font-variant: small-caps;	
+	font-size: 2rem;
+	
+
+}
+
+.mcr-nav {
+	float:left;
+	padding-top: 3.25rem;
+	padding-right: 1rem;
+}
+
+.mcr-content {
+	padding-top: 3.5rem;
+}
+
+.mcr-cemeteryTable {
+	border-collapse: collapse;
+}
+
+.mcr-cemeteryTable tr {
+	border-bottom: 1px solid #E8E8E8;
+}
+
+.mcr-cemeteryTable td {
+	padding-right: 15px;
+}
+
+.mcr-cemeteryTable tr:hover {
+	background-color: #E8E8E8;
+}
+
+
+.mcr-cemeteryTable-titleRow {
+	background-color: #E8E8E8;
+	font-weight: bold;
+
+}
+
+body {
+	font-family: sans-serif;
+	font-weight: lighter;
+}
